@@ -3,7 +3,7 @@
 ## Introduction
 For this project I created a Postgres database and used Python (Pandas) to complete this exercise.
 
-Let me know if you have issues viewing any of the .PDFs below and cannot download them. I've noticed a GitHub rendering
+Let me know if you have issues viewing any of the .PDFs below and cannot download them. I've noticed a GitHub rendering issue
 in some instances.
 
 In order to run this program you will need to first have Python 3.9.
