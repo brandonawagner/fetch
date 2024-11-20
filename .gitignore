@@ -2,6 +2,7 @@
 # website: http://jupyter.org/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+.ipynb
 
 # Environments
 .env
@@ -10,5 +11,6 @@
 __pycache__
 .idea
 .DS_Store
+*/.DS_Store
 
 

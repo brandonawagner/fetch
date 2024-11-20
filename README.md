@@ -21,12 +21,12 @@ This database is optimized for OLTP (Online transaction processing).
 
 You can view my Create Table scripts with indexes and constraints [here](files/fetch_createtables.sql)
 I was unable to put foreign key constraints _everywhere_ I felt is was necessary due to issues in the
-data that I mention in [data_quality_analysis.ipynb](data_quality_analysis.ipynb).
+data that I mention in [data_quality_analysis.ipynb](data_quality_analysis.pdf).
 
 ## Second: Write queries that directly answer predetermined questions from a business stakeholder
-Click [here](stakeholder_queries.ipynb) to view the stakeholder queries
+Click [here](stakeholder_queries.md) to view the stakeholder queries
 
 ## Third: Evaluate Data Quality Issues in the Data Provided
-Click [here](data_quality_analysis.ipynb) to view the data quality analysis file
+Click [here](data_quality_analysis.pdf) to view the data quality analysis file
 ## Fourth: Communicate with Stakeholders
 Click [here](Email_To_Stakeholders.pdf) to view the communication with Stakeholders.
