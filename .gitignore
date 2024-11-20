@@ -6,3 +6,9 @@
 # Environments
 .env
 
+#Other
+__pycache__
+.idea
+.DS_Store
+
+
