@@ -2,7 +2,7 @@
 # website: http://jupyter.org/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-.ipynb
+*.ipynb
 
 # Environments
 .env
