@@ -1,0 +1,8 @@
+### JupyterNotebooks ###
+# website: http://jupyter.org/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Environments
+.env
+
