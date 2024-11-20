@@ -20,8 +20,8 @@ My ERG diagram is below.
 This database is optimized for OLTP (Online transaction processing). 
 
 You can view my Create Table scripts with indexes and constraints [here](files/fetch_createtables.sql)
-I was unable to put foreign key constraints _everywhere_ I felt is was necessary due to issues in the
-data that I mention in [data_quality_analysis.ipynb](data_quality_analysis.pdf).
+I was unable to put foreign key constraints _everywhere_ I felt it was necessary due to issues in the
+data that I mention in [the Data Quality Analysis file](data_quality_analysis.pdf).
 
 ## Second: Write queries that directly answer predetermined questions from a business stakeholder
 Click [here](stakeholder_queries.md) to view the stakeholder queries
