@@ -16,14 +16,14 @@ You should then
 ## First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model
 To review this data, I used [main.py](main.py) to transform and load the database into my database.
 
-My ERG diagram is below.
+My ERD diagram is below.
 
 ![alt text](files/fetch_erd.png)
 
 This database is optimized for OLTP (Online transaction processing). 
 
 You can view my Create Table scripts with indexes and constraints [here](files/fetch_createtables.sql)
-I was unable to put foreign key constraints _everywhere_ I felt it was necessary due to issues in the
+I was unable to put foreign key constraints _everywhere_. I felt it was necessary due to issues in the
 data that I mention in [the Data Quality Analysis file](data_quality_analysis.pdf).
 
 ## Second: Write queries that directly answer predetermined questions from a business stakeholder
